@@ -1,16 +1,22 @@
-## Hi there 👋
+## Howdy.
 
-<!--
-**daviewhy/daviewhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let's get this bread 🥖
 
-Here are some ideas to get you started:
+               ______________                               
+         ,===:'.,            `-._                           
+              `:.`---.__         `-._                       
+                `:.     `--.         `.                     
+                   \.        `.         `.                   
+           (,,(,    \.         `.   ____,-`.,                
+        (,'     `/   \.   ,--.___`.'                         
+    ,  ,'  ,--.  `,   \.;'         `                         
+     `{D, {    \  :    \;                                    
+       V,,'    /  /    //                                    
+       j;;    /  ,' ,-//.    ,---.    ,---.    ,---.    ,---.    ,---.      ,                    
+       \;'   /  ,' /  _  \  /  _  \  /  _  \  /  _  \  /  _  \  /  _  \   ,'/                    
+             \   `'  / \  `'  / \  `'  / \  `'  / \  `'  / \  `'  / \  `.' /                     
+              `.___,'   `.__,'   `.__,'   `.__,'   `.__,'   `.__,'   `.__,'  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Hobbyist.
